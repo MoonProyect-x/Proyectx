@@ -1,0 +1,5 @@
+ local Tab = Window:NewTab("Ui")
+    local UiSection = Tab:NewSection("Toggle")
+    UiSection:NewKeybind("Toggle Ui", "this will hide the ui(does not inculde animation)", Enum.KeyCode.RightControl, function()
+        Library:ToggleUI()
+    end)
